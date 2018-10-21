@@ -1,0 +1,36 @@
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.exe
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\bin\Debug\Árboles binarios.pdb
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles_binarios.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\13. Árboles binarios\Árboles binarios\obj\Debug\Árboles binarios.csproj.GenerateResource.Cache
